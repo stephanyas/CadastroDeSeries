@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CadastroEmSeries.Classes
+namespace CadastroEmSeries
 {
-    class EntidadeBase
+    public abstract class EntidadeBase
     {
+        public int id { get; protected set; }
     }
 }
