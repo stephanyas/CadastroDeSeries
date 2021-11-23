@@ -1,0 +1,14 @@
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\bin\Debug\netcoreapp3.1\CadastroEmSeries.exe
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\bin\Debug\netcoreapp3.1\CadastroEmSeries.deps.json
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\bin\Debug\netcoreapp3.1\CadastroEmSeries.runtimeconfig.json
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\bin\Debug\netcoreapp3.1\CadastroEmSeries.runtimeconfig.dev.json
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\bin\Debug\netcoreapp3.1\CadastroEmSeries.dll
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\bin\Debug\netcoreapp3.1\CadastroEmSeries.pdb
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\obj\Debug\netcoreapp3.1\CadastroEmSeries.csproj.AssemblyReference.cache
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\obj\Debug\netcoreapp3.1\CadastroEmSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\obj\Debug\netcoreapp3.1\CadastroEmSeries.AssemblyInfoInputs.cache
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\obj\Debug\netcoreapp3.1\CadastroEmSeries.AssemblyInfo.cs
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\obj\Debug\netcoreapp3.1\CadastroEmSeries.csproj.CoreCompileInputs.cache
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\obj\Debug\netcoreapp3.1\CadastroEmSeries.dll
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\obj\Debug\netcoreapp3.1\CadastroEmSeries.pdb
+D:\Stephany\Repositorio\CadastroEmSeries\CadastroEmSeries\obj\Debug\netcoreapp3.1\CadastroEmSeries.genruntimeconfig.cache
