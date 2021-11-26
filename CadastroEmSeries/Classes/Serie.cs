@@ -11,6 +11,7 @@ namespace CadastroEmSeries
         public string Titulo { get; set; }
         public string Descricao { get; set; }
         public int Ano { get; set; }
+        private bool Excluido { get; set; }
 
         //Metodos
         public Serie(int id, Genero genero, string titulo, string descricao, int ano)
@@ -20,15 +21,17 @@ namespace CadastroEmSeries
             this.Titulo = titulo;
             this.Descricao = descricao;
             this.Ano = ano;
+            this.Excluido = false;
         }
 
         public override string ToString()
         {
             string retorno = "";
-            retorno = "Gênero: " + this.Genero + Environment.NewLine;
-            retorno = "Titulo: " + this.Titulo + Environment.NewLine;
-            retorno = "Descrição: " + this.Descricao + Environment.NewLine;
-            retorno = "Ano de Lançamento: " + this.Ano + Environment.NewLine;
+            retorno += "Gênero: " + this.Genero + Environment.NewLine;
+            retorno += "Titulo: " + this.Titulo + Environment.NewLine;
+            retorno += "Descrição: " + this.Descricao + Environment.NewLine;
+            retorno += "Ano de Lançamento: " + this.Ano + Environment.NewLine;
+            retorno += "Excluido: " + this.Excluido;
             return retorno;
         }
 
@@ -40,6 +43,16 @@ namespace CadastroEmSeries
         public int retornaId() //metodo de encapsulamento
         {
             return this.id;
+        }
+
+        public bool retornaExcluido()
+        {
+            return this.Excluido;
+        }
+
+        public void Exclui()
+        {
+            this.Excluido = true;
         }
     }
 }

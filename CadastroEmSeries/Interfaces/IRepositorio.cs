@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CadastroEmSeries
+namespace CadastroEmSeries.Interfaces
 {
     public interface IRepositorio<T>
     {
