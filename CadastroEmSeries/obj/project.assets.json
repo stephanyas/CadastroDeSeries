@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Stephany\\Repositorio\\CadastroEmSeries\\CadastroEmSeries\\CadastroEmSeries.csproj",
-      "projectName": "CadastroEmSeries",
-      "projectPath": "D:\\Stephany\\Repositorio\\CadastroEmSeries\\CadastroEmSeries\\CadastroEmSeries.csproj",
+      "projectUniqueName": "D:\\Stephany\\Repositorio\\CadastroEmSeries\\CadastroEmSeries\\CadastroDeSeries.csproj",
+      "projectName": "CadastroDeSeries",
+      "projectPath": "D:\\Stephany\\Repositorio\\CadastroEmSeries\\CadastroEmSeries\\CadastroDeSeries.csproj",
       "packagesPath": "C:\\Users\\Stephany\\.nuget\\packages\\",
       "outputPath": "D:\\Stephany\\Repositorio\\CadastroEmSeries\\CadastroEmSeries\\obj\\",
       "projectStyle": "PackageReference",

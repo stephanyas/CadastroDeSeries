@@ -1,7 +1,8 @@
-﻿using CadastroEmSeries.Interfaces;
+﻿using CadastroDeSeries.Interfaces;
+using CadastroDeSeries;
 using System.Collections.Generic;
 
-namespace CadastroEmSeries
+namespace CadastroDeSeries
 {
     class SerieRepositorio : IRepositorio<Serie>
     {

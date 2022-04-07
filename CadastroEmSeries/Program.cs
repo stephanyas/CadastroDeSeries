@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CadastroEmSeries
+namespace CadastroDeSeries
 {
     class Program
     {

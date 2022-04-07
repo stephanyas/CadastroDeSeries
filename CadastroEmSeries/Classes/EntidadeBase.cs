@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CadastroEmSeries
+namespace CadastroDeSeries
 {
     public abstract class EntidadeBase
     {

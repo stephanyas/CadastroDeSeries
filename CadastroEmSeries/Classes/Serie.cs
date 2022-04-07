@@ -1,8 +1,9 @@
-﻿using System;
+﻿using CadastroDeSeries;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CadastroEmSeries
+namespace CadastroDeSeries
 {
     public class Serie : EntidadeBase // : indica que é uma herança
     {
